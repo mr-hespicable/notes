@@ -40,7 +40,7 @@ between positive and normative economic statements.*
     but it is a finite resource and will eventually be used up.
 
   - This can be seen through the rise of oil prices and the numerous wars started over
-    oil in the Middle East.
+    oil in the Middle East.   
   
   - However, with the increasing need to switch to reusable energy to slow down climate
     change, oil is becoming less scarce as countries search for other, more
@@ -59,3 +59,5 @@ between positive and normative economic statements.*
     much higher than the marginal benefit. The marginal cost is the global warming
     that occurs, but the marginal benefit is the lower cost of
     the energy.
+
+

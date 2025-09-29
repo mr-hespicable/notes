@@ -154,3 +154,33 @@ _Net Investment_ - gross investment minus the value of deprecation
 Investment can be made in:
 - physical capital
 - human capital
+
+#pagebreak()
+
+== Investment Curves
+
+#figure(
+  image("investment_curve.png", width: 70%)
+)
+
+= Government Spending
+Here are some 
+- Healthcare
+- Education
+- Housing
+- Infrastructure
+- Defence
+- Interest on debt/borrowing
+- Transport
+- Subsidies/supply-size policy
+- Police/justice system
+
+In the UK Budget (Fiscal Policy):
+$ #text("Government Spending") #sym.arrow.l.r.double.long #text("Tax and Other Revenue") $
+
+Distinguish between:
+- Current Government Spending: School heating bills, nurses' salaries
+- Government Investment: *new* hospitals, *new* roads, *new* houses.
+
+Government investment is the decision made to increase spending temporarily for a
+long-term benefit.
