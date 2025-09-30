@@ -184,3 +184,45 @@ Distinguish between:
 
 Government investment is the decision made to increase spending temporarily for a
 long-term benefit.
+
+#pagebreak()
+= Net trade
+Net trade is the value of exports - the value of imports.
+Measured as a part of the #underline([Current Account of the Balance of Payments])
+
+There are two sides to the Balance of Payments:
+#align(center, 
+  table(
+    columns: (50%, 50%),
+    align: (center, center),
+    table.cell(
+      colspan: 2,
+      [#underline([*Balance of Payments*])]
+    ),
+    [
+      #underline([*Current Account*])
+      #align(left, [
+        - Trade in goods
+        - Trade in services
+        - Net flow of investment income
+        - Transfers (people/govt.)
+      ])
+    ],
+    [
+      #underline([*Capital + Financial Account*])
+
+      #align(left, [
+        - Net Capital Transactions
+        - Net Financial Transactions.
+      ])
+    ],
+  )
+)
+
+The current account and the capital + financial account must balance (i.e. = 0).
+
+In a deficit, $X - M < 0.$ In a surplus, $X - M > 0.$
+
+If a current account's B.P. (balance of payments) deficit grows, this leads to a
+_reduction_ in $A D$.
+
