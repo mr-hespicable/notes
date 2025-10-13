@@ -262,5 +262,4 @@ as T increases, so does $rho$.
     $Omega "m"$) against wire thickness (in $"m"^2$).
 
   + Each measurement should be conducted thrice, and a mean obtained for each wire 
-     thickness.
-
+    thickness. 
