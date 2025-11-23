@@ -266,8 +266,8 @@ We hold the following constant:
 
 #pagebreak()
 
-== What causes an outward shift in SRAS?
-In short, *short-run style changes* (haha). 
+== What causes a rightward shift in SRAS?
+In short, *short-run style changes* (ha ha). 
 
 - a reduction in profits tax
 - a reduction in wage costs
@@ -278,8 +278,10 @@ In short, *short-run style changes* (haha).
 - improved technology
 - greater availability of capital
 
+These are all *good* things in the macro-economy.
 
-== What causes an inward shift in SRAS?
+
+== What causes a leftward shift in SRAS?
 
 - a increase in profits tax
 - a increase in wage costs
@@ -287,6 +289,8 @@ In short, *short-run style changes* (haha).
 - less favorable weather conditions
 - a fall in the levels of benefits paid #sym.arrow higher incentive to work
 - higher rates of interest
+
+These are all *bad* things in the macro-economy.
 
 
 == Long run Aggregate Supply
@@ -305,7 +309,6 @@ Factors which affect AD may well affect AS and vice versa, although this may occ
 over different time periods - e.g. an increase in investment is likely to increase
 both $A D$ and $A S$.
 
-The immediate effect of an increase in investment is:
-$
-
-$
+== SRAS Shifts
+Governments want to increase the factors of production and decrease the costs of
+production.

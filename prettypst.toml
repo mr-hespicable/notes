@@ -1,0 +1,46 @@
+indentation = 4
+separate-label = true
+final-newline = true
+
+[preserve-newline]
+content = true
+math = true
+
+[automatic-newline]
+max-width = 85
+
+[block]
+long-block-style = "separate"
+
+[term]
+space-before = false
+space-after = true
+
+[named-argument]
+space-before = false
+space-after = true
+
+[dictionary-entry]
+space-before = false
+space-after = true
+
+[import-statement]
+space-before = false
+space-after = true
+
+[comma]
+space-before = false
+space-after = true
+
+[columns]
+comma = "end-of-content"
+
+[heading]
+blank-lines-before = 1
+blank-lines-after = 0
+
+[columns-methods]
+grid = "columns"
+tablex = "columns"
+gridx = "columns"
+table = "columns"
