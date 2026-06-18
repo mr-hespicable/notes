@@ -1,0 +1,43 @@
+MAT Section A 
+(https://www.physicsandmathstutor.com/admissions/mat/) 
+
+STEP Foundation Modules 
+(https://step.maths.org/assignments/foundation)
+
+PAT Maths (ignore physics) 
+(https://www.physicsandmathstutor.com/admissions/pat/)
+
+ENGAA Maths (ignore physics) 
+(https://www.physicsandmathstutor.com/admissions/engaa/)
+
+TMUA Logic and Proof notes 
+(https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2025/06/25160507/Notes_on_Logic_and_Proof_June2025.pdf)
+
+ECAA Advanced Maths (part b) 
+(https://www.physicsandmathstutor.com/admissions/ecaa/)
+
+STEP TMUA MAT Hodder Book 
+(https://www.scribd.com/document/675106285/Richard-Lissaman-Tim-Honeywill-David-Bedford-Phil-Chaffe-STEP-MAT-TMUA-Skills-for-Success-in-University-Admissions-Tests-for-Mathematics-Hodde)
+
+AMC 12 --> 10-20?
+(https://artofproblemsolving.com/wiki/index.php?title=AMC_12_Problems_and_Solutions)
+
+Jacqueline Taylor Questions 
+(check r2drew2)
+
+Yotta mocks (r2drew2 google drive links)
+
+UKMT Senior/Kangaroo (optional, not extremely similar, but good problem solving)
+
+TMUA (LEAVE UNTIL THE END) (timed)
+
+SMC
+hard graphs sketching?
+
+interview:
+final interview question on combinatorics
+check forums for interview prep... remember proj euler! try the hard problems to
+practice thinking skills
+
+integral maths 
+(https://my.integralmaths.com)

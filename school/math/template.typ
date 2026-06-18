@@ -1,3 +1,6 @@
+#import "@preview/lilaq:0.5.0" as lq
+#import "@preview/cetz:0.4.2"
+
 #set page(paper: "a4", header: [
   #set text(11pt)
   #smallcaps[Leon McQueen]
