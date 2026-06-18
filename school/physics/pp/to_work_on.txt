@@ -1,0 +1,111 @@
+essentially this is feedback
+
+- in MCQS we're pretty consistently not RTQ for some. example:
+    - "circuit connected" vs in resistor
+    - for couples forces just need to be in opposite directions and SAME MAGNITUDE.
+      check magnitude too not just direction like a chud
+    - momentum in system vs momentum of EACH trolley
+    - when an object is stationary it is not moving therefore sum F = 0 therefore a =
+      0 therefore upthrust = weight of object.
+
+- adding velocities vs adding masses: how to express.
+    - mass is scalar
+    - so just add magnitudes
+    - velocities is vectors
+    - so addition means add each individual component: resolve vectors.
+
+
+- mass is conserved, not matter
+
+- must say equal in magnitude & opposite in direction when talking about N3 Pairs.
+
+- e.m.f. is energy per unit charge transferred from other forms to electric potential
+  energy.
+  p.d. is energy per unit charge transferred from electric potential energy to other
+  forms.
+
+
+- in I = vAne, n is the number DENSITY. so if you have total number of free
+  electrons, calc number density by 'number of free electrons'/'volume'
+
+- when a question says justify, must do a calculation based on graph/table
+
+- read the ENTIRE question. Here specifically, we caught that LED was facing wrong
+  way, but cell's e.m.f. was 1.5 when the threshold voltage was 2.3V, so it would not
+  have turned on anyways.
+  
+- Calc number of photons per second -> calc photon energy for wavelength of light, 
+  then calc the total energy from the LED, then divide 'total light energy from LED
+  per second' / 'photon energy' to get the number of photons per second.
+
+
+- superposition: its the sum of the DISPLACEMENTS.
+
+- normally velocities are rounded, so if you want 'time taken to reach maximum
+  height' you should use v = 0 rather than the max height.
+
+  also, sanity check. if your equation just gave you TWO TIMES for reaching the MAX
+  height its probably wrong.
+
+
+- why use large metal plates at ends of conducting putty? to ensure entire CSA is in
+  contact with the plates so that the resistance is as even as possible (constant
+  CSA)
+
+- to check const. diameter (ofc with diameter d 2cm <= d <= 10), use CALIPERS AND
+  MAKE MULTIPLE MEASUREMENTS. this is basically a gimme.
+
+- percentage uncertainty is half the resolution ON EITHER SIDE so just divide
+  resolution of instrument by the percentage uncertainty.
+
+- when calculating gradients, MAKE SURE TO ACCOUNT FOR POWERS OF TEN IN THE FREAKING
+  GRAPH AXES.
+
+- six-markers:
+    - split up into sections they ask, and give even points on each.
+
+    quantum: observations, and evidence for light as particles
+        OBSERVATIONS:
+            - zinc plate discharges because electrons are emitted
+            - UV light causes leaf to fall but normal light doesnt.
+            - but over a long period of time the gold leaf falls so there's natural
+              discharge.
+            - as observed in UV light the intensity of EM radiation depends on
+              distance
+
+        EVIDENCE FOR PARTICULATE NATURE OF EM RADIATION:
+            - wave theory suggests leaf would fall with normal light, but it doesn't.
+            - this is because light is actually photons, and photons are packets of
+              energy
+            - one to one interaction between photons and electrons. one photon causes
+              one electron to be ejected from the surface of the zinc
+            - the uv photons have greater energy than work function of zinc
+            - the normal light photons don't, so photoelectric effect doesn't occur
+            - E = hf -> energy of light depends on frequency which supports prev.
+              points
+            - also, cause E = hf energy of photon is independent of intensity.
+            
+
+
+
+- more RTQ; describe and explain a graph:
+    - describe each region
+    - explain how you know: it's cause gradient in this example (displacement/time
+      graph but you're describing velocity)
+
+- more RTQ; its a momentum - time graph, so if you want to calc force you need to find the
+  change in momentum which is just y2-y1.
+
+- please look at your calculator when putting in an equation
+
+- when talking about why intensity changes as distance increases (for a wave), talk
+  about attenuation -> amplitude decreases -> as I prop A^2 I decreases.
+
+- describe and explain how wavelength depends on frequency
+    - speed of wire is same
+    - as wavelength decreases f increases
+    - provide specific examples to get explain mark (here, explain = explain how you
+      know)
+
+- to calc percentage uncertainty from values, find the range of the values caluclated
+  from x and y, and divide by the AVERAGE value calculated from all values.

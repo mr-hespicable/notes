@@ -1,0 +1,76 @@
+SINGLE:
+    
+    PUREMECH:
+        pure: 48/53 = 90.57%
+        mech: 18/26 = 69.23%
+        ovr = 66/79 = 83.54%
+
+    PURESTATS:
+        pure: 44/48 = 91.67%
+        stat: 21/32 = 65.63%
+        ovr = 65/80 = 81.25%
+
+
+    pure ovr = 92/101 = 91.09%      yay!!!!
+    applied ovr = 39/58 = 67.24%    noo....
+
+    total = 131/159 = 82.39%
+
+    
+FURTHER:
+    pure: 32/46 = 69.57% 
+    mech: 11/14 = 78.57%
+    stats: 15/17 = 88.24%
+    
+    applied ovr = 26/31 = 83.87%
+
+    total = 58/77 = 75.32%
+
+
+
+PHYSICS:
+    70/92 = 76.09% = A :|
+
+    RTFQ
+    use accurate language i.e:
+        - sin x ≈ x, not sin x = x
+        - LED lets small current through, not 0 current through
+    
+    sanity check please.
+
+
+COMPSCI:
+    theory: 71/82 = 86% = A*
+    coding:  
+
+
+    - provision of a ui to the user is NOT a functoin of an operating system.
+      better say allocate storage space on storage devices to files, or hiding 
+      the complexities of the hardware from the user.
+    
+    - RTQ if number has to be written as 8-bits 
+
+    - advantages of midi to represent music vs sampled sound?
+        1. easier to change instruments + different sounds
+        2. compact representation
+        3. simple method to compose algorithmically
+        4. no data lost 
+
+    - EXPLAIN why vector graphics take up less space?
+        1. bitmap images store color of each pixel;
+           vector images do not need to store the color of each pixel
+        2. the image contains lots of pixels
+        3. vector graphics store information about objects that an image is composed of. 
+        4. it only takes a small amount of memory to store the properties of each object
+        5. large images can be composed of relatively few objects -> there would be fewer objects than there would be pixels. 
+           a single object might be equivalent to many pixels.
+
+
+    - RPN vs INFIX:
+        - don't need brackets
+        - no need of order of precedence
+
+
+    - Describe base case = in english please.
+      we said "start = end"
+      we SHOULD HAVE said 'start and end nodes are the same'
