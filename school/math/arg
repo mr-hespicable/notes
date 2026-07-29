@@ -1,0 +1,13 @@
+1. acos(8/sqrt(29 * 14)) = 67 degrees
+2. acos(-8/sqrt(29 * 14)) = 113 degrees
+
+3. acos(-8/sqrt(29*14)) = 113
+
+4. acos(76/76) = 0 so parallel
+5. acos(-114/114) = 180 so parallel
+
+
+6. A dot B = 0. B dot C = 0. C dot A = 0
+   So angle between all is cos(0) = 90
+    
+7. 

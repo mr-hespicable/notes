@@ -1,0 +1,14 @@
+A. d X proceed by elimination: sqrt(2), 0 lies on y = sqrt(2) - x, which is inside x^2 + y^2 = 4
+B. d v
+C. d v
+D. a v
+E. a X recall: repeated roots are ones which touch the x-axis. so the two smallest must be repeated.
+               additionally, d was (x^2-1)^2 which is (x+1)(x-1) all squared.
+F. a X cos x = -cos x. when you're integrating SIN x across -a, a its zero, not cos. got confused.
+       then you realize that well sin x from pi to 2pi is negative
+       1/cos3x from zero to pi/8 is positive so. positive * positive * negative = negative.
+       T < 0.
+G. c v
+H. b v
+I. b X a
+J. d X 

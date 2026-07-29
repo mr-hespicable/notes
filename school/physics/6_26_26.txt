@@ -1,0 +1,21 @@
+Electric Potential
+ 
+Electric Potential is defined as:
+
+The work done per unit POSITIVE charge to bring a charge from infinity to a point in
+an electric field.
+
+Electric Potential is measured in volts.
+
+For a point charge, the formula is:
+    1/4π epsilon_0 * Q/r
+
+To find the potential energy, we multiply the potential by the charge
+E = Vq
+
+NB: If the potential energy is positive, then that indicates repulsion & energy is
+stored.
+If the potential energy is negative, then that indicates attraction & energy has been 
+released.
+
+

@@ -1,0 +1,207 @@
+Movement of charged particles
+
+Recall that for parallel plates:
+    
+    E = V/d 
+    
+    where V = potential difference
+    and d = plate separation
+
+
+Between the parallel plates:
+    - any particle in between the plates experiences the same force with the same
+      magnitude and same direction.
+    - magnitude + direction are constant.
+
+The particle (if the particle is negatively charged) moves in the opposite direction
+to the field lines.
+
+Since:
+    F = Eq and F = ma          acceleration is constant
+
+    Eq = ma
+    a = (Eq)/m
+
+    Since E = V/d,
+
+    a = (Vq)/(md)
+
+Since the field between parallel plates is uniform (i.e. the magnitude and direction
+of the field is the same at all points), the acceleration of a charged particle in
+the uniform electric field is constant.
+
+EXAMPLE
+
+Here, p = proton.
+
+600V
+-----------------------------------
+
+p+ -v->                            3cm separation, 
+    = 2.5 * 10^7 ms-1
+-----------------------------------
+0V
+
+
+
+E = 600/(3.0*10^-2)
+  = 20,000 Vm^-1
+
+So F = Eq
+   = 20,000 Vm-1 * 1.6 * 10^-19
+   = 3.2 * 10^-15
+
+And a = F/m
+      = 3.2 * 10^-15/(1.673 * 10^-27)
+      = 1.91 * 10^12 ms-2
+
+
+s = ut + 1/2at^2
+1.5 * 10^-2 m  = 0 + 1/2 * 1.91*10^12 * t^2
+t = sqrt(2 * 1.5 * 10^-2 * 1.91*10^-12)
+  = 1.25 * 10^-7 s
+
+
+Then we know that
+s = ut
+  = 2.5 * 10^7 * 1.25 * 10^-7
+  = 3.1m
+
+
+
+p.d. = 600 V
+d = 3 * 10^-2
+u = 1.0 * 10^7
+
+E = 20,000
+F = 3.2 * 10^-15
+a = F/m = 3.5 * 10^15
+
+v^2 = u^2 + 2as
+0 = (1.0 * 10^7)^2 + 2 * -3.5 * 10^15 * s
+s = 1.4 cm
+
+
+
+1. The proton moves in the direction of the electric field. That is, it moves towards
+   the negatively-charged plate.
+
+2. The p.d. This is because KE = 1/2 mv^2
+                            eV = 1/2 mv^2
+                            v = sqrt(2eV/m)
+
+3. sqrt(2 * 1.6 * 10^-19 * 1.5 / 9.11 * 10^-31)
+   = 726 km s-1
+
+4.  a. u_h = 5.0 * 10^6
+       d = 2*10^-2
+       p.d. = 2500
+        
+       E = V/d
+         = 2500/2*10^-2
+         = 125,000
+
+       F = Eq  
+         = 125000 * 1.6 * 10^-19
+         = 2 * 10^-14 N
+       
+       a = 2 * 10^-14 / 9.11*10^-31
+         = 2.195 * 10^16 ms-2
+
+       v^2 = 0 + 2 * a * 10^-2
+         v = 20,954,186 ms-1
+
+    b. s = ut
+       0.2 = 5.0*10^6 * t
+       t = 4 * 10^-8 s
+       
+       s = ut + 1/2 at^2
+         = 0 + 1/2 * 2.195 * 10^16 * 4 * 10^-8
+
+
+18.14
+    E = V / d
+
+    F = Eq
+      = Vq/d
+
+    F/q = V/d
+
+18.15
+    E = 250 
+    F = Eq
+    4 * 10^-11 = 250 q
+    q = 1.6 * 10^-13
+
+a)  4*10^-11
+b)  4*10^-11
+
+
+18.21
+a)  p.d. = 200
+    E = V/d
+      = 200 / 0.4
+      = 500
+    
+    F = Eq
+      = 500 * 1.5 * 10^-17
+      = 7.5 * 10^-15 N
+      
+    mg = 1.4 * 10^-15 * 9.81
+       = 13.7 * 10^-15 N
+
+b)  F acts ->
+    mg acts downwards
+
+    so direction = arctan(13.7/7.5) = -61.3 degrees from horizontal
+
+18.22
+a)  7.5mm = 7.5 * 10^-3 m   
+    E = V/d = 150 / (7.5 * 10^-3)
+      = 20,000 N C -1
+
+b)  F = Eq = 20000 * 1.6 * 10^-19 
+      = 3.2 * 10^-15 N
+
+c)  E = Vq
+      = 150 * 1.6 * 10^-19
+      = 2.4 * 10^-17 J
+
+18.23
+a)  E = V/x
+    F = Eq
+      = qV/x
+
+    Assuming V, q, and x are all constant,
+
+    ma = qV/x
+     a = qV/mx
+
+b)
+    i)  As the negatively-charged droplet moves between the deflecting plates, it
+    moves towards the positively-charged plate (upward).
+
+    ii) the droplet continues moving in the direction it is travelling from the
+    moment that it leaves the field of the plates. (direction travelled does not 
+    change)
+
+c)  15mm = 0.015m
+
+    v = s/t
+    t = s/v
+      = 0.015/200
+      = 7.5 * 10^-5 s
+
+d) s = ut + 1/2 at^2
+     = 0 + 0.5 * 2.2 * 10^5 * (7.5 * 10^-5)^2    
+     = 6.19 * 10^-4
+
+18.20
+Gerald Holton, a physicist at Harvard, pointed out that Millikan included less
+results than he actually recorded. This was disputed by Allan Franklin, a physicist
+at CU Boulder, who noted that if every result was recorded, Millikan would not have
+been able to claim that  he had calculated e to within 0.5% uncertainty, but instead
+to 2% uncertainty. Though it was still better than any other calculation at the time,
+he may have worried that it would have resulted in more discourse over the result.
+
+

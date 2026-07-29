@@ -1,0 +1,10 @@
+A. c v
+B. a v
+C. d v
+D. b v
+E. b X a
+F. d v
+G. a X c - didn't check enough cases. should notice that all powers of 2 equal themselves, so must go up to f(16)
+H. c v
+I. b (???) v
+J. c (guess - 1/2^x > 1/2 1/2^y) so never true so finite? 

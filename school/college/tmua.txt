@@ -19,7 +19,12 @@ ECAA Advanced Maths (part b)
 STEP TMUA MAT Hodder Book 
 (https://www.scribd.com/document/675106285/Richard-Lissaman-Tim-Honeywill-David-Bedford-Phil-Chaffe-STEP-MAT-TMUA-Skills-for-Success-in-University-Admissions-Tests-for-Mathematics-Hodde)
 
-AMC 12 --> 10-20?
+AMC 12 --> 5-20
+2000 done
+2001 done
+2002 12P done
+2002 12A working
+
 (https://artofproblemsolving.com/wiki/index.php?title=AMC_12_Problems_and_Solutions)
 
 Jacqueline Taylor Questions 

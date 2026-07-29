@@ -1,0 +1,16 @@
+b v
+c v
+a X wrong because forgot c was negative (silly mistake)
+c v
+a v
+d v
+a v 
+b X wrong because considered sines incorrectly.
+    sin(x+2pi) = sin x so y = x + 2n pi where n is an integer
+
+    BUT ALSO
+    sin(pi - x) = sin x, so can have negative gradient as well.
+
+    should consider points on graph C that don't fall into graph A
+b v
+d X wrong because forgot that the half term existed so didn't divide by power of ten.
