@@ -31,6 +31,7 @@ with open(file_name, "w") as f:
     duration = time.time() - start
     s = f"time taken: {time.strftime("%H:%M:%S", time.gmtime(duration))}"
 
+    print(f"you are now done. open this link https://artofproblemsolving.com/wiki/index.php?title={year}_AMC_12{ab}_Answer_Key")
     f.write(s)
     print(s)
 

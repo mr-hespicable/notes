@@ -1,0 +1,30 @@
+1.  A 00:01 v
+2.  B 00:55 v
+3.  D 01:45 v
+4.  C 01:32 v
+5.  C 03:01 v
+6.  D 04:43 X slightly silly mistake, but arithmetic should be better.
+7.  C 01:17 v
+8.  B 05:44 v
+9.  B 01:05 X didn't read the part that said triangles had same area.
+              should have equated 1/2 ab sin C to 1/2 xy sin Z etc.
+10. E 02:02 v
+11. D 03:19 v
+12. F 05:40 v
+13. E 04:57 v
+14. B 02:28 v
+15. A 03:38 X Arithmetic mistake: very silly. don't do this again please.
+16. ? 09:38 X
+                - spot that two triangles are similar
+                - multiply side lengths using known sides + scale factor
+                - end up with 12/5 + 12/5 = 4.8 cm.
+17. G 04:10 X failed to consider gradient - shoddy.
+18. B 07:15 X RTFQ first check the 'antecedent'; that is, is (f(x))^2 <=1 for all x in [-1, 1]
+              then check the second part. And remember odd + even functions (x, x^3 vs x^2, x^4, etc.)
+19. G 04:49 X could have had either two or one cube in the bottom right corner.
+20. H 05:36 X stupid stupid stupid
+
+12 / 20 AWFUL
+
+time taken: 01:13:46
+avg time per question: 03:11
