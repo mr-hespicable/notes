@@ -1,23 +1,31 @@
-1.  C 00:05  
-2.  D 01:40  
-3.  A 02:42  
-4.  C 04:25  
-5.  A 05:48  
-6.  ? 06:33  
-7.  B 07:13  
-8.  A 05:20  
-9.  F 02:06  
-10. E 03:24  
-11. E 04:42  
-12. A 01:58  
-13. C 02:20  
-14. F 05:30  
-15. B 02:22  
-16. E 03:17  
-17. E 06:46  
-18. A 00:48  
-19. D 03:27  
-20. D 04:43  
+1.  C 00:05  v
+2.  D 01:40  x an arithmetic mistake results in a lost mark. unfortunate
+3.  A 02:42  v
+4.  C 04:25  x did not know the remainder theorem - an easy mark lost
+5.  A 05:48  x must go further: found the inequality but thought process was not there. when
+               you have an inequality, the region where it's less than smth is just where the line is,
+               which only gives you x values, so only deal with those when visualizing (e.g. number line)
+6.  ? 06:33  x note similarity of triangles; remember that a tangent also has a radius associated with it.
+               MUST notice the length of the radius is 12, and bottom 20, so do some trig with similar trianges.
+7.  B 07:13  v
+8.  A 05:20  v
+9.  F 02:06  v
+10. E 03:24  v
+11. E 04:42  x 100 mod 4 _is_ 0, but unfortunately zero-indexing the sequence leads to it being 99 mod 4 which is 3,
+               so answer was -5 instead of 7. sanity check these types of answers since it's a common mistake we make
+12. A 01:58  x thought process again. need to sanity check more
+13. C 02:20  v
+14. F 05:30  v
+15. B 02:22  v
+16. E 03:17  v
+17. E 06:46  x don't expand; if only to put everything into a nice formula (1/2 n(n+1) rather than 1/2 n(n-1) + n)
+               then, just multiply 25 by 26 or 24 by 25. made it too complicated and also did some rather stupid
+               things such as subtracting rather than adding????
+18. A 00:48  v
+19. D 03:27  v
+20. D 04:43  x Yes, use the cosine rule. don't be afraid of quadratics, try to factorize instead.
 
 time taken: 01:15:17
 avg time per question: 03:45
+you got questions 2, 4, 5, 6, 11, 12, 17, and 20 incorrect.
+12/20
